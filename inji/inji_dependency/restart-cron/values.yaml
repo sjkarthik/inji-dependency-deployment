@@ -1,7 +1,0 @@
-namespaces:
-  - name: packetcreator
-    enabled: true
-    deploymentName: packetcreator
-  - name: authdemo
-    enabled: true
-    deploymentName: authdemo
